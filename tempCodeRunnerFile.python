@@ -1,0 +1,3 @@
+print("malaks coffe machine")
+print("Espresso, Latte, Cappiccino")
+input(print("what would you like?"))
